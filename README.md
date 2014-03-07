@@ -16,3 +16,8 @@ RaspiStillYUV.c contains all of the main code, but overall this is just hacked s
 Magic numbers for configuration are contained around line 47 of RaspiStillYUV.c, in the // Configuration section. 
 
 Requires OpenCV on your Pi. 
+
+
+<p align="center">
+  <img src="http://mp3guy.github.io/img/CamPi.png" alt="CamPi"/>
+</p>
